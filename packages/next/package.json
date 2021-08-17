@@ -24,9 +24,9 @@
   "homepage": "https://github.com/preactjs/prefresh#readme",
   "dependencies": {
     "@prefresh/babel-plugin": "0.4.1",
-    "@prefresh/core": "^1.3.1",
-    "@prefresh/utils": "^1.0.0",
-    "@prefresh/webpack": "^3.2.0"
+    "@prefresh/core": "^1.3.2",
+    "@prefresh/utils": "^1.1.1",
+    "@prefresh/webpack": "^3.3.2"
   },
   "devDependencies": {
     "next": "11.1.0",
