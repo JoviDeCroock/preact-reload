@@ -1,0 +1,9 @@
+[package]
+name = "swc"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+swc_core = { version = "0.69.*", features = ["common", "ecma_utils", "ecma_plugin_transform"] }
