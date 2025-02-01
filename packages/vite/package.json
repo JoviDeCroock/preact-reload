@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "preact": "^10.15.1",
-    "vite": "^5.0.13"
+    "vite": "^5.1.8"
   },
   "peerDependencies": {
     "preact": "^10.4.0",
